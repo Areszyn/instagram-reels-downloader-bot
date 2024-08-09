@@ -2,7 +2,7 @@ from pyrogram import Client, filters
 
 # Check if the user is an admin
 async def is_admin(client, user_id):
-    return user_id in [123456789, 987654321]  # Replace with actual admin user IDs
+    return user_id in [2114237158, 2114237158]  # Replace with actual admin user IDs
 
 # Add user to the database
 async def add_user(db, user_id):
